@@ -65,7 +65,7 @@ export const Skills = () => {
                                     <h5>Pentest</h5>
                                 </div>
                                 <div className="item">
-                                    <img src={megitter1} alt="Image" />
+                                    <img src={meter1} alt="Image" />
                                     <h5>Code Review</h5>
                                 </div>
                             </Carousel>
